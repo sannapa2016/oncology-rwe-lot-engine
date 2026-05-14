@@ -18,7 +18,7 @@ Mapping lines of therapy in oncology is notoriously difficult due to drug combin
 
 ##  Project Structure & Modules
 
-Referencing the file structure in **{40BCB008-E7C5-4376-8865-062E6419E3A0}.png**:
+Referencing the file structure in:
 
 * **`lot_mapper.py`**: The core logic engine. Handles regimen identification and line-advancement triggers.
 * **`calculate_ttnt.py`**: Analytical module for calculating "Time to Next Treatment"—a critical proxy for Progression-Free Survival (PFS) in RWE studies.
