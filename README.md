@@ -44,15 +44,14 @@ python lot_mapper.py
 
 ```
 
-##  Integration with the "Precision-Patient-360" Suite
+## Integration with the "Precision-Patient-360" Suite
 
 This engine provides the foundational clinical data used by the rest of the stack:
 
 1. **Oncology-RWE-LOT-Engine:** (This Repo) Maps the clinical journey and therapy lines.
-2. **[Cgt-Precision-Patient-360](https://www.google.com/search?q=link):** Uses mapped LOT to find patients who have "Failed 2+ Lines" for CGT eligibility.
-3. **[Patient-Adherence-ML](https://www.google.com/search?q=link):** Predicts if a patient will drop off during their current mapped LOT.
-4. **[Net-Guard-GTN-Optimizer](https://www.google.com/search?q=link):** Calculates the financial rebates tied to specific therapy lines.
-
+2. [**Cgt-Precision-Patient-360**](https://github.com/sannapa2016/CGT-Precision-Patient-360): Uses mapped LOT to find patients who have "Failed 2+ Lines" for CGT eligibility.
+3. [**Patient-Adherence-ML-Framework**](https://github.com/sannapa2016/patient-adherence-ml-framework): Predicts if a patient will drop off during their current mapped LOT.
+4. [**Net-Guard-GTN-Optimizer**](https://github.com/sannapa2016/Net-guard-gtn-optimizer): Calculates the financial rebates tied to specific therapy lines.
 ## License
 
 Distributed under the MIT License.
