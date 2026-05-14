@@ -2,7 +2,7 @@
 
 ### *Deterministic Mapping for Integrated Evidence Generation (IEG)*
 
-The `oncology-rwe-lot-engine` is a specialized Python framework designed to transform longitudinal Real-World Data (RWD) into clinically meaningful **Lines of Therapy (LOT)**. As shown in the repository overview (**{40BCB008-E7C5-4376-8865-062E6419E3A0}.png**), this tool supports HEOR and Medical Affairs teams in calculating key oncology metrics like **TTNT (Time to Next Treatment)** and therapy sequencing.
+The `oncology-rwe-lot-engine` is a specialized Python framework designed to transform longitudinal Real-World Data (RWD) into clinically meaningful **Lines of Therapy (LOT)**. As shown in the repository overview, this tool supports HEOR and Medical Affairs teams in calculating key oncology metrics like **TTNT (Time to Next Treatment)** and therapy sequencing.
 
 
 ##  The Strategic Problem: Clinical Complexity in RWD
